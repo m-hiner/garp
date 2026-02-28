@@ -3,6 +3,7 @@ package com.gardencompanion.presentation.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.gardencompanion.data.repository.SettingsRepositoryDataStore
+import com.gardencompanion.domain.model.CompatibilityType
 import com.gardencompanion.domain.model.Row
 import com.gardencompanion.domain.repository.GardenRepository
 import com.gardencompanion.domain.repository.PlantRepository
@@ -40,6 +41,11 @@ class SubPlotDetailViewModel(
         viewModelScope.launch {
             gardenRepository.reorderRows(subPlotId, orderedRowIds)
         }
+    }
+
+    suspend fun getCompatibilityType(plantId: String, otherPlantId: String): CompatibilityType {
+        return plantRepository.getCompatibilityTypeSymmetric(plantId, otherPlantId)
+            ?: CompatibilityType.NEUTRAL
     }
 
     suspend fun getPlantDisplayName(plantId: String, languageTag: String?): String? {

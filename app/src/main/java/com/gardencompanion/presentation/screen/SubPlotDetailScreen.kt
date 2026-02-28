@@ -6,9 +6,11 @@ import androidx.compose.material.icons.filled.Edit
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectDragGesturesAfterLongPress
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -39,13 +41,15 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.unit.dp
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.zIndex
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.gardencompanion.R
+import com.gardencompanion.domain.model.CompatibilityType
 import com.gardencompanion.domain.model.Row
 import com.gardencompanion.presentation.viewmodel.LocalAppContainer
 import com.gardencompanion.presentation.viewmodel.SubPlotDetailViewModel
@@ -185,38 +189,81 @@ fun SubPlotDetailScreen(
                                 )
                             },
                     ) {
-                        Row(
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(16.dp),
-                            verticalAlignment = Alignment.CenterVertically,
+                        val prevPlantId = displayRows.getOrNull(index - 1)?.plantId
+                        val nextPlantId = displayRows.getOrNull(index + 1)?.plantId
+
+                        val topCompat by produceState<CompatibilityType?>(
+                            initialValue = null,
+                            key1 = row.plantId,
+                            key2 = prevPlantId,
                         ) {
-                            Column(modifier = Modifier.weight(1f)) {
-                                Text(text = "${index + 1}")
-                                val emptyRowText = stringResource(id = R.string.empty_row)
-                                val plantName by produceState(
-                                    initialValue = emptyRowText,
-                                    key1 = row.plantId,
-                                    key2 = languageTag,
-                                ) {
-                                    value = if (row.plantId == null) {
-                                        emptyRowText
-                                    } else {
-                                        vm.getPlantDisplayName(row.plantId, languageTag) ?: emptyRowText
+                            value = if (row.plantId != null && prevPlantId != null) {
+                                vm.getCompatibilityType(row.plantId, prevPlantId)
+                            } else null
+                        }
+
+                        val bottomCompat by produceState<CompatibilityType?>(
+                            initialValue = null,
+                            key1 = row.plantId,
+                            key2 = nextPlantId,
+                        ) {
+                            value = if (row.plantId != null && nextPlantId != null) {
+                                vm.getCompatibilityType(row.plantId, nextPlantId)
+                            } else null
+                        }
+
+                        Box(modifier = Modifier.fillMaxWidth()) {
+                            Row(
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .padding(16.dp),
+                                verticalAlignment = Alignment.CenterVertically,
+                            ) {
+                                Column(modifier = Modifier.weight(1f)) {
+                                    Text(text = "${index + 1}")
+                                    val emptyRowText = stringResource(id = R.string.empty_row)
+                                    val plantName by produceState(
+                                        initialValue = emptyRowText,
+                                        key1 = row.plantId,
+                                        key2 = languageTag,
+                                    ) {
+                                        value = if (row.plantId == null) {
+                                            emptyRowText
+                                        } else {
+                                            vm.getPlantDisplayName(row.plantId, languageTag) ?: emptyRowText
+                                        }
                                     }
+                                    Text(text = plantName)
                                 }
-                                Text(text = plantName)
+                                IconButton(onClick = { onChoosePlant(row.id) }) {
+                                    Icon(
+                                        imageVector = Icons.Filled.Edit,
+                                        contentDescription = stringResource(id = R.string.change_plant),
+                                    )
+                                }
+                                IconButton(onClick = { vm.clearRow(row.id) }) {
+                                    Icon(
+                                        imageVector = Icons.Filled.Clear,
+                                        contentDescription = stringResource(id = R.string.clear_plant),
+                                    )
+                                }
                             }
-                            IconButton(onClick = { onChoosePlant(row.id) }) {
-                                Icon(
-                                    imageVector = Icons.Filled.Edit,
-                                    contentDescription = stringResource(id = R.string.change_plant),
+                            topCompat?.let { type ->
+                                Box(
+                                    modifier = Modifier
+                                        .fillMaxWidth()
+                                        .height(3.dp)
+                                        .background(compatibilityColor(type))
+                                        .align(Alignment.TopStart)
                                 )
                             }
-                            IconButton(onClick = { vm.clearRow(row.id) }) {
-                                Icon(
-                                    imageVector = Icons.Filled.Clear,
-                                    contentDescription = stringResource(id = R.string.clear_plant),
+                            bottomCompat?.let { type ->
+                                Box(
+                                    modifier = Modifier
+                                        .fillMaxWidth()
+                                        .height(3.dp)
+                                        .background(compatibilityColor(type))
+                                        .align(Alignment.BottomStart)
                                 )
                             }
                         }
@@ -225,4 +272,10 @@ fun SubPlotDetailScreen(
             }
         }
     }
+}
+
+private fun compatibilityColor(type: CompatibilityType): Color = when (type) {
+    CompatibilityType.BENEFICIAL -> Color(0xFF4CAF50)
+    CompatibilityType.DETRIMENTAL -> Color(0xFFF44336)
+    CompatibilityType.NEUTRAL -> Color(0xFF9E9E9E)
 }
