@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Garden Companion Planner</string>
+
+    <string name="nav_garden_plans">Plans</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="garden_plans_title">Garden Plans</string>
+    <string name="create_plan">Create plan</string>
+    <string name="open_plan">Open</string>
+
+    <string name="subplots_title">Subplots</string>
+    <string name="add_subplot">Add subplot</string>
+    <string name="subplot_name">Subplot name</string>
+
+    <string name="rows_title">Rows</string>
+    <string name="add_row">Add row</string>
+    <string name="choose_plant">Choose plant</string>
+    <string name="change_plant">Change plant</string>
+    <string name="clear_plant">Clear</string>
+    <string name="empty_row">Empty</string>
+
+    <string name="plant_selection_title">Select Plant</string>
+    <string name="search">Search</string>
+
+    <string name="companion_check_title">Companion planting</string>
+    <string name="crop_rotation_title">Crop rotation</string>
+    <string name="keep_anyway">Keep anyway</string>
+    <string name="review_selection">Review selection</string>
+
+    <string name="compat_beneficial">Beneficial</string>
+    <string name="compat_neutral">Neutral</string>
+    <string name="compat_detrimental">Detrimental</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="setting_crop_rotation">Crop rotation warnings</string>
+    <string name="setting_language">Language</string>
+    <string name="language_system">System default</string>
+    <string name="language_en">English</string>
+    <string name="language_sk">Slovak</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="warning_crop_rotation_same_family">Last year this position used the same family.</string>
+    <string name="warning_detrimental_neighbor">Detrimental neighbor detected.</string>
+</resources>

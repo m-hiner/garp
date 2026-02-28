@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tomato",
+    "nameEn": "Tomato",
+    "nameSk": "Paradajka",
+    "icon": "tomato",
+    "family": "SOLANACEAE"
+  },
+  {
+    "id": "basil",
+    "nameEn": "Basil",
+    "nameSk": "Bazalka",
+    "icon": "basil",
+    "family": "LAMIACEAE"
+  },
+  {
+    "id": "carrot",
+    "nameEn": "Carrot",
+    "nameSk": "Mrkva",
+    "icon": "carrot",
+    "family": "APIACEAE"
+  },
+  {
+    "id": "onion",
+    "nameEn": "Onion",
+    "nameSk": "Cibuľa",
+    "icon": "onion",
+    "family": "ALLIACEAE"
+  },
+  {
+    "id": "cabbage",
+    "nameEn": "Cabbage",
+    "nameSk": "Kapusta",
+    "icon": "cabbage",
+    "family": "BRASSICACEAE"
+  }
+]

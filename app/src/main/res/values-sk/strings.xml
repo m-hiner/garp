@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Záhradný plánovač spoločníkov</string>
+
+    <string name="nav_garden_plans">Plány</string>
+    <string name="nav_settings">Nastavenia</string>
+
+    <string name="garden_plans_title">Záhradné plány</string>
+    <string name="create_plan">Vytvoriť plán</string>
+    <string name="open_plan">Otvoriť</string>
+
+    <string name="subplots_title">Záhony</string>
+    <string name="add_subplot">Pridať záhon</string>
+    <string name="subplot_name">Názov záhonu</string>
+
+    <string name="rows_title">Riadky</string>
+    <string name="add_row">Pridať riadok</string>
+    <string name="choose_plant">Vybrať plodinu</string>
+    <string name="change_plant">Zmeniť plodinu</string>
+    <string name="clear_plant">Vymazať</string>
+    <string name="empty_row">Prázdne</string>
+
+    <string name="plant_selection_title">Vyber plodinu</string>
+    <string name="search">Hľadať</string>
+
+    <string name="companion_check_title">Spoločné pestovanie</string>
+    <string name="crop_rotation_title">Striedanie plodín</string>
+    <string name="keep_anyway">Nechať aj tak</string>
+    <string name="review_selection">Skontrolovať výber</string>
+
+    <string name="compat_beneficial">Prospešné</string>
+    <string name="compat_neutral">Neutrálne</string>
+    <string name="compat_detrimental">Škodlivé</string>
+
+    <string name="settings_title">Nastavenia</string>
+    <string name="setting_crop_rotation">Upozornenia na striedanie plodín</string>
+    <string name="setting_language">Jazyk</string>
+    <string name="language_system">Podľa systému</string>
+    <string name="language_en">Angličtina</string>
+    <string name="language_sk">Slovenčina</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Zrušiť</string>
+
+    <string name="warning_crop_rotation_same_family">Minulý rok bola na tejto pozícii rovnaká čeľaď.</string>
+    <string name="warning_detrimental_neighbor">Zistený škodlivý sused.</string>
+</resources>

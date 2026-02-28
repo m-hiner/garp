@@ -1,0 +1,22 @@
+[
+  {
+    "plantId": "tomato",
+    "otherPlantId": "basil",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "cabbage",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  }
+]

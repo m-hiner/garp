@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+.gradle-wrapper/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+.navigation/
+
+# Signing
+*.jks
+*.keystore
+
+# Built artifacts
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# Generated
+captures/
+.externalNativeBuild/
+.cxx/
