@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Garden Companion Planner</string>
+    <string name="app_name">Garp</string>
 
     <string name="nav_garden_plans">Plans</string>
     <string name="nav_settings">Settings</string>

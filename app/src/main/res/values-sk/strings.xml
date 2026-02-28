@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Záhradný plánovač spoločníkov</string>
+    <string name="app_name">Garp</string>
 
     <string name="nav_garden_plans">Plány</string>
     <string name="nav_settings">Nastavenia</string>
