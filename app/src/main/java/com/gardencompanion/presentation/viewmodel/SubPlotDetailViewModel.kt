@@ -31,6 +31,12 @@ class SubPlotDetailViewModel(
         }
     }
 
+    fun deleteRow(rowId: String) {
+        viewModelScope.launch {
+            gardenRepository.deleteRow(rowId)
+        }
+    }
+
     fun clearRow(rowId: String) {
         viewModelScope.launch {
             gardenRepository.assignPlant(rowId, null)

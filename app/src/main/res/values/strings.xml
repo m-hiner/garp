@@ -18,6 +18,7 @@
     <string name="change_plant">Change plant</string>
     <string name="clear_plant">Clear</string>
     <string name="empty_row">Empty</string>
+    <string name="delete_row">Delete row</string>
 
     <string name="plant_selection_title">Select Plant</string>
     <string name="search">Search</string>

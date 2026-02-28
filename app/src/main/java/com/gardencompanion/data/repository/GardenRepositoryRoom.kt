@@ -70,6 +70,10 @@ class GardenRepositoryRoom(
         rowDao.reorder(orderedRowIds)
     }
 
+    override suspend fun deleteRow(rowId: String) {
+        rowDao.deleteById(rowId)
+    }
+
     override suspend fun assignPlant(rowId: String, plantId: String?) {
         rowDao.updatePlant(rowId, plantId)
     }

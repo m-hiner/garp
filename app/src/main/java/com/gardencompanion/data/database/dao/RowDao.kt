@@ -25,6 +25,9 @@ interface RowDao {
     @Query("UPDATE rows SET plantId = :plantId WHERE id = :rowId")
     suspend fun updatePlant(rowId: String, plantId: String?)
 
+    @Query("DELETE FROM rows WHERE id = :rowId")
+    suspend fun deleteById(rowId: String)
+
     @Query("SELECT * FROM rows WHERE subPlotId = :subPlotId AND orderIndex = :orderIndex LIMIT 1")
     suspend fun getBySubPlotAndOrder(subPlotId: String, orderIndex: Int): RowEntity?
 

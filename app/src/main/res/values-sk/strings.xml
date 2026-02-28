@@ -18,6 +18,7 @@
     <string name="change_plant">Zmeniť plodinu</string>
     <string name="clear_plant">Vymazať</string>
     <string name="empty_row">Prázdne</string>
+    <string name="delete_row">Odstrániť riadok</string>
 
     <string name="plant_selection_title">Vyber plodinu</string>
     <string name="search">Hľadať</string>
