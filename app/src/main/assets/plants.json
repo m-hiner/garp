@@ -1,24 +1,17 @@
 [
   {
-    "id": "tomato",
-    "nameEn": "Tomato",
-    "nameSk": "Paradajka",
-    "icon": "tomato",
-    "family": "SOLANACEAE"
+    "id": "broccoli",
+    "nameEn": "Broccoli",
+    "nameSk": "Brokolica",
+    "icon": "broccoli",
+    "family": "BRASSICACEAE"
   },
   {
-    "id": "basil",
-    "nameEn": "Basil",
-    "nameSk": "Bazalka",
-    "icon": "basil",
-    "family": "LAMIACEAE"
-  },
-  {
-    "id": "carrot",
-    "nameEn": "Carrot",
-    "nameSk": "Mrkva",
-    "icon": "carrot",
-    "family": "APIACEAE"
+    "id": "garlic",
+    "nameEn": "Garlic",
+    "nameSk": "Cesnak",
+    "icon": "garlic",
+    "family": "ALLIACEAE"
   },
   {
     "id": "onion",
@@ -28,10 +21,206 @@
     "family": "ALLIACEAE"
   },
   {
+    "id": "beetroot",
+    "nameEn": "Beetroot",
+    "nameSk": "Červená repa",
+    "icon": "beetroot",
+    "family": "CHENOPODIACEAE"
+  },
+  {
+    "id": "bush_beans",
+    "nameEn": "Bush Beans",
+    "nameSk": "Fazuľa kríčková",
+    "icon": "bush_beans",
+    "family": "FABACEAE"
+  },
+  {
+    "id": "string_beans",
+    "nameEn": "String Beans",
+    "nameSk": "Fazuľa ťahavá",
+    "icon": "string_beans",
+    "family": "FABACEAE"
+  },
+  {
+    "id": "sweet_peas",
+    "nameEn": "Sweet Peas",
+    "nameSk": "Hrach",
+    "icon": "sweet_peas",
+    "family": "FABACEAE"
+  },
+  {
+    "id": "strawberry",
+    "nameEn": "Strawberries",
+    "nameSk": "Jahody",
+    "icon": "strawberry",
+    "family": "ROSACEAE"
+  },
+  {
+    "id": "kohlrabi",
+    "nameEn": "Kohlrabi",
+    "nameSk": "Kaleráb",
+    "icon": "kohlrabi",
+    "family": "BRASSICACEAE"
+  },
+  {
     "id": "cabbage",
     "nameEn": "Cabbage",
     "nameSk": "Kapusta",
     "icon": "cabbage",
     "family": "BRASSICACEAE"
+  },
+  {
+    "id": "cauliflower",
+    "nameEn": "Cauliflower",
+    "nameSk": "Karfiol",
+    "icon": "cauliflower",
+    "family": "BRASSICACEAE"
+  },
+  {
+    "id": "kale",
+    "nameEn": "Kale",
+    "nameSk": "Kel",
+    "icon": "kale",
+    "family": "BRASSICACEAE"
+  },
+  {
+    "id": "dill",
+    "nameEn": "Dill",
+    "nameSk": "Kôpor",
+    "icon": "dill",
+    "family": "APIACEAE"
+  },
+  {
+    "id": "corn",
+    "nameEn": "Corn",
+    "nameSk": "Kukurica",
+    "icon": "corn",
+    "family": "POACEAE"
+  },
+  {
+    "id": "chard",
+    "nameEn": "Chard",
+    "nameSk": "Mangold",
+    "icon": "chard",
+    "family": "AMARANTHACEAE"
+  },
+  {
+    "id": "watermelon",
+    "nameEn": "Watermelon",
+    "nameSk": "Melón",
+    "icon": "watermelon",
+    "family": "CUCURBITACEAE"
+  },
+  {
+    "id": "carrot",
+    "nameEn": "Carrot",
+    "nameSk": "Mrkva",
+    "icon": "carrot",
+    "family": "APIACEAE"
+  },
+  {
+    "id": "fruit_trees",
+    "nameEn": "Fruit Trees",
+    "nameSk": "Ovocné stromy",
+    "icon": "fruit_trees",
+    "family": "FRUIT_TREES"
+  },
+  {
+    "id": "bell_pepper",
+    "nameEn": "Bell Pepper",
+    "nameSk": "Paprika",
+    "icon": "bell_pepper",
+    "family": "SOLANACEAE"
+  },
+  {
+    "id": "parsnip",
+    "nameEn": "Parsnip",
+    "nameSk": "Paštrnák",
+    "icon": "parsnip",
+    "family": "APIACEAE"
+  },
+  {
+    "id": "chives",
+    "nameEn": "Chives",
+    "nameSk": "Pažítka",
+    "icon": "chives",
+    "family": "ALLIACEAE"
+  },
+  {
+    "id": "parsley",
+    "nameEn": "Parsley",
+    "nameSk": "Petržlen",
+    "icon": "parsley",
+    "family": "APIACEAE"
+  },
+  {
+    "id": "leek",
+    "nameEn": "Leek",
+    "nameSk": "Pór",
+    "icon": "leek",
+    "family": "ALLIACEAE"
+  },
+  {
+    "id": "tomato",
+    "nameEn": "Tomato",
+    "nameSk": "Paradajka",
+    "icon": "tomato",
+    "family": "SOLANACEAE"
+  },
+  {
+    "id": "rhubarb",
+    "nameEn": "Rhubarb",
+    "nameSk": "Rebarbora",
+    "icon": "rhubarb",
+    "family": "POLYGONACEAE"
+  },
+  {
+    "id": "radish",
+    "nameEn": "Radish",
+    "nameSk": "Reďkovka",
+    "icon": "radish",
+    "family": "CRUCIFERAE"
+  },
+  {
+    "id": "lettuce",
+    "nameEn": "Lettuce",
+    "nameSk": "Šalát",
+    "icon": "lettuce",
+    "family": "ASTERACEAE"
+  },
+  {
+    "id": "spinach",
+    "nameEn": "Spinach",
+    "nameSk": "Špenát",
+    "icon": "spinach",
+    "family": "AMARANTHACEAE"
+  },
+  {
+    "id": "pumpkin",
+    "nameEn": "Pumpkin",
+    "nameSk": "Tekvica",
+    "icon": "pumpkin",
+    "family": "CUCURBITACEAE"
+  },
+  {
+    "id": "cucumber",
+    "nameEn": "Cucumber",
+    "nameSk": "Uhorky",
+    "icon": "cucumber",
+    "family": "CUCURBITACEAE"
+  },
+  {
+    "id": "celery",
+    "nameEn": "Celery",
+    "nameSk": "Zeler",
+    "icon": "celery",
+    "family": "APIACEAE"
+  },
+  {
+    "id": "potato",
+    "nameEn": "Potato",
+    "nameSk": "Zemiaky",
+    "icon": "potato",
+    "family": "SOLANACEAE"
   }
 ]

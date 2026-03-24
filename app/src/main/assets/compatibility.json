@@ -1,8 +1,3648 @@
 [
   {
-    "plantId": "tomato",
-    "otherPlantId": "basil",
+    "plantId": "broccoli",
+    "otherPlantId": "garlic",
     "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "strawberry",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "chives",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "tomato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "broccoli",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "cabbage",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "kale",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "fruit_trees",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "garlic",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "cabbage",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "kale",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "bell_pepper",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "pumpkin",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "onion",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "corn",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "leek",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "tomato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "spinach",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "celery",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "beetroot",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "garlic",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "onion",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "cauliflower",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "bell_pepper",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "chives",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "leek",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bush_beans",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "garlic",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "onion",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "bell_pepper",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "chives",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "leek",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "pumpkin",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "string_beans",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "garlic",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "onion",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "chives",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "leek",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "tomato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "sweet_peas",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "broccoli",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "string_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "cabbage",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "cauliflower",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "kale",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "pumpkin",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "strawberry",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "bell_pepper",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "rhubarb",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kohlrabi",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "garlic",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "onion",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "strawberry",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "cauliflower",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "rhubarb",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cabbage",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "string_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "strawberry",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cauliflower",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "garlic",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "onion",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "strawberry",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "kale",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "string_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "carrot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "parsnip",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "dill",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "pumpkin",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "celery",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "corn",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "spinach",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chard",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "spinach",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "pumpkin",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "watermelon",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "dill",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "fruit_trees",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "bell_pepper",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "parsnip",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "chives",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "carrot",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "bush_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "string_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "chives",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "fruit_trees",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "bell_pepper",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "bush_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "string_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "dill",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "carrot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "chives",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "celery",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "parsnip",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "fruit_trees",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "chives",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "chives",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "lettuce",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "parsley",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "bush_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "string_beans",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "leek",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "broccoli",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
   },
   {
     "plantId": "tomato",
@@ -11,12 +3651,1312 @@
   },
   {
     "plantId": "tomato",
-    "otherPlantId": "cabbage",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "bell_pepper",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "cucumber",
     "type": "DETRIMENTAL"
   },
   {
-    "plantId": "carrot",
+    "plantId": "tomato",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "tomato",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "bush_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "string_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "rhubarb",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "carrot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "parsley",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "pumpkin",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "cucumber",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "radish",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
     "otherPlantId": "onion",
     "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "chard",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "watermelon",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "bell_pepper",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "parsley",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "rhubarb",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "lettuce",
+    "otherPlantId": "potato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "bush_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "strawberry",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "corn",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "chard",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "watermelon",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "fruit_trees",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "rhubarb",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "spinach",
+    "otherPlantId": "potato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "beetroot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "bush_beans",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "sweet_peas",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "strawberry",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "kohlrabi",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "watermelon",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "tomato",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "radish",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "cucumber",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "celery",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "pumpkin",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "broccoli",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "garlic",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "onion",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "beetroot",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "bell_pepper",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "parsnip",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "tomato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "radish",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "spinach",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "celery",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "cucumber",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "sweet_peas",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "cabbage",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "cauliflower",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "kale",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "dill",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "corn",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "watermelon",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "parsnip",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "leek",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "tomato",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "lettuce",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "pumpkin",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "cucumber",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "celery",
+    "otherPlantId": "potato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "broccoli",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "garlic",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "onion",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "beetroot",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "bush_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "string_beans",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "sweet_peas",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "strawberry",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "kohlrabi",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "cabbage",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "cauliflower",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "kale",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "dill",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "corn",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "chard",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "watermelon",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "carrot",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "fruit_trees",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "bell_pepper",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "parsnip",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "chives",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "parsley",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "leek",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "tomato",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "rhubarb",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "radish",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "lettuce",
+    "type": "NEUTRAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "spinach",
+    "type": "BENEFICIAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "pumpkin",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "cucumber",
+    "type": "DETRIMENTAL"
+  },
+  {
+    "plantId": "potato",
+    "otherPlantId": "celery",
+    "type": "DETRIMENTAL"
   }
 ]
