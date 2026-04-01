@@ -30,7 +30,7 @@
     var track = document.querySelector('.carousel-track');
     if (!track) return;
 
-    var slides = track.children;
+    var slides = track.querySelectorAll('.carousel-slide');
     var total = slides.length;
     var current = 0;
 

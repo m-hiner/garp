@@ -132,9 +132,29 @@ a:hover { text-decoration: underline; }
     height: 100%;
 }
 
-.carousel-track img {
+.carousel-slide {
     min-width: 100%; height: 100%;
+    position: relative;
+}
+
+.carousel-slide img {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
     object-fit: cover;
+}
+
+.carousel-slide img[data-lang-en],
+.carousel-slide img[data-lang-sk] {
+    display: none;
+}
+
+body.lang-en .carousel-slide img[data-lang-en] {
+    display: block;
+}
+
+body.lang-sk .carousel-slide img[data-lang-sk] {
+    display: block;
 }
 
 .carousel-placeholder {
