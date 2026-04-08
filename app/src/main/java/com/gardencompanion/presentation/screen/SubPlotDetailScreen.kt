@@ -352,7 +352,7 @@ fun SubPlotDetailScreen(
                                     Box(
                                         modifier = Modifier
                                             .fillMaxWidth()
-                                            .height(3.dp)
+                                            .height(5.dp)
                                             .background(compatibilityColor(type))
                                             .align(Alignment.TopStart)
                                     )
@@ -361,7 +361,7 @@ fun SubPlotDetailScreen(
                                     Box(
                                         modifier = Modifier
                                             .fillMaxWidth()
-                                            .height(3.dp)
+                                            .height(5.dp)
                                             .background(compatibilityColor(type))
                                             .align(Alignment.BottomStart)
                                     )
