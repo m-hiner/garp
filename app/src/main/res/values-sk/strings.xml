@@ -11,6 +11,8 @@
     <string name="subplots_title">Záhony</string>
     <string name="add_subplot">Pridať záhon</string>
     <string name="subplot_name">Názov záhonu</string>
+    <string name="rename_subplot">Premenovať záhon</string>
+    <string name="delete_subplot">Odstrániť záhon</string>
 
     <string name="rows_title">Riadky</string>
     <string name="add_row">Pridať riadok</string>

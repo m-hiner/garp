@@ -26,4 +26,10 @@ interface SubPlotDao {
 
     @Query("SELECT * FROM subplots WHERE id = :id LIMIT 1")
     suspend fun getById(id: String): SubPlotEntity?
+
+    @Query("DELETE FROM subplots WHERE id = :subPlotId")
+    suspend fun deleteById(subPlotId: String)
+
+    @Query("UPDATE subplots SET name = :newName WHERE id = :subPlotId")
+    suspend fun updateName(subPlotId: String, newName: String)
 }

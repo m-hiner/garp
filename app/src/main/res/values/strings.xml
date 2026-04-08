@@ -11,6 +11,8 @@
     <string name="subplots_title">Subplots</string>
     <string name="add_subplot">Add subplot</string>
     <string name="subplot_name">Subplot name</string>
+    <string name="rename_subplot">Rename subplot</string>
+    <string name="delete_subplot">Delete subplot</string>
 
     <string name="rows_title">Rows</string>
     <string name="add_row">Add row</string>

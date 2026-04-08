@@ -22,4 +22,16 @@ class PlanDetailViewModel(
             gardenRepository.addSubPlot(planId, name)
         }
     }
+
+    fun deleteSubPlot(subPlotId: String) {
+        viewModelScope.launch {
+            gardenRepository.deleteSubPlot(subPlotId)
+        }
+    }
+
+    fun renameSubPlot(subPlotId: String, newName: String) {
+        viewModelScope.launch {
+            gardenRepository.renameSubPlot(subPlotId, newName)
+        }
+    }
 }

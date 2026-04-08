@@ -70,6 +70,14 @@ class GardenRepositoryRoom(
         rowDao.reorder(orderedRowIds)
     }
 
+    override suspend fun deleteSubPlot(subPlotId: String) {
+        subPlotDao.deleteById(subPlotId)
+    }
+
+    override suspend fun renameSubPlot(subPlotId: String, newName: String) {
+        subPlotDao.updateName(subPlotId, newName)
+    }
+
     override suspend fun deleteRow(rowId: String) {
         rowDao.deleteById(rowId)
     }

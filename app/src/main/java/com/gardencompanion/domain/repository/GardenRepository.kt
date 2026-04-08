@@ -16,6 +16,9 @@ interface GardenRepository {
     suspend fun addRow(subPlotId: String): Row
     suspend fun reorderRows(subPlotId: String, orderedRowIds: List<String>)
 
+    suspend fun deleteSubPlot(subPlotId: String)
+    suspend fun renameSubPlot(subPlotId: String, newName: String)
+
     suspend fun deleteRow(rowId: String)
     suspend fun assignPlant(rowId: String, plantId: String?)
 
